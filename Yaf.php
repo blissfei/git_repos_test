@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * 
+ * @copyright	test
+ * @version
+ * @date	
+ */
 final class Yaf_Application{
 
 	protected static $_app = '';
